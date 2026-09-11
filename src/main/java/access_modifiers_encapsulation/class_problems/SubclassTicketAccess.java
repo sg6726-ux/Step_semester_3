@@ -1,4 +1,4 @@
-package access_modifiers_encapsulation.assigment_problems;
+package access_modifiers_encapsulation.class_problems;
 public class SubclassTicketAccess {
     static String classifyAccess(String fieldModifier, String accessorContext) {
         if (accessorContext.equals("SAME_CLASS")) {

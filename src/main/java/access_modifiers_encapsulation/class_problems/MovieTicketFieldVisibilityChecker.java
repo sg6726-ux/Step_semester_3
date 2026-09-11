@@ -1,4 +1,4 @@
-package access_modifiers_encapsulation.assigment_problems;
+package access_modifiers_encapsulation.class_problems;
 public class MovieTicketFieldVisibilityChecker {
     static String classifyAccess(String fieldModifier, String accessorContext) {
         if (fieldModifier.equals("private")) {

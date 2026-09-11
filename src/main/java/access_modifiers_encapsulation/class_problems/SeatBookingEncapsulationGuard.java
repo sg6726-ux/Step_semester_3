@@ -1,4 +1,4 @@
-package access_modifiers_encapsulation.assigment_problems;
+package access_modifiers_encapsulation.class_problems;
 public class SeatBookingEncapsulationGuard {
     private int seatsTotal;
     private int seatsAvailable;
